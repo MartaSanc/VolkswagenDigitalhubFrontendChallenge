@@ -1,0 +1,58 @@
+{
+  "plants": [
+    {
+      "name": "Monsterra Deliciosa",
+      "lightLevel": "Indirecta",
+      "waterRequirment": "Una vez por semana",
+      "humidityLevel": "Medio/alto",
+      "habitat": "Interior",
+      "stock": 3,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Ficus Moclame",
+      "lightLevel": "Indirecta",
+      "waterRequirment": "Moderado",
+      "humidityLevel": "Medio",
+      "habitat": "Interior",
+      "stock": 3
+    },
+    {
+      "name": "Begonia Maculata",
+      "lightLevel": "Alto",
+      "waterRequirment": "Moderado",
+      "humidityLevel": "Medio",
+      "habitat": "Interior",
+      "stock": 10,
+      "id": 3
+    },
+    {
+      "name": "Helecho Boston",
+      "lightLevel": "Muy bajo",
+      "waterRequirment": "Abundante",
+      "humidityLevel": "Medio",
+      "habitat": "Interior",
+      "stock": 0,
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Aloe Vera",
+      "lightLevel": "Luz directa",
+      "waterRequirment": "Moderado",
+      "humidityLevel": "Medio",
+      "habitat": "Exterior",
+      "stock": 18
+    },
+    {
+      "id": 6,
+      "name": "Hiedra Helix",
+      "lightLevel": "Indirecta",
+      "waterRequirment": "Moderado",
+      "humidityLevel": "Bajo",
+      "habitat": "Exterior",
+      "stock": 18
+    }
+  ]
+}
